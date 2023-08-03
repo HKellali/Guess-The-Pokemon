@@ -1,0 +1,21 @@
+.wrapper {
+  position: relative;
+  font-size: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  img {
+    width: 225px;
+    object-fit: cover;
+  }
+  .name {
+    height: auto;
+    padding-left: 10px;
+    padding-top: 10px;
+    top: 280px;
+    bottom: 3px;
+    width: 215px;
+    background-color: #000000a6;
+  }
+}
